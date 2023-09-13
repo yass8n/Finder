@@ -13,3 +13,11 @@ $ ruby rfind chico
 $ ruby rfind testing.*=  
 4.) You can optionally limit the files to search by enter the valid file extensions after the search expression, with each file extension seperated by a comma. The example below searches only html, rb, and txt files.  
 $ ruby rfind testing.*= html,rb,txt
+
+_____
+
+Copyright © Yaseen Aniss 2023
+
+All rights reserved. No part of this code may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the copyright owner, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.
+
+For permission requests, please contact anissyaseen@gmail.com
